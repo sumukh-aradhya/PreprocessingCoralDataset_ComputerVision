@@ -1,0 +1,2 @@
+-> gcc sobel.c netpbm.c -o sobel -lm              
+-> ./sobel

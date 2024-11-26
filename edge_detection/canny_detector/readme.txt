@@ -1,0 +1,2 @@
+-> gcc canny.c netpbm.c -o canny -lm              
+-> ./canny

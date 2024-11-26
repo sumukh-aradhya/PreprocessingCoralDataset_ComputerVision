@@ -1,0 +1,2 @@
+-> gcc generate_ground_truth.c netpbm.c -o ground_truth -lm
+-> ./ground_truth inputs/1.pgm outputs/grayscale/1_op.pgm

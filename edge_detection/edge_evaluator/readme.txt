@@ -1,0 +1,2 @@
+-> gcc edge_evaluator.c netpbm.c -o edge_evaluation -lm
+-> ./edge_evaluation ground_truth_edge_map.pgm sobel_output.pgm canny_output.pgm

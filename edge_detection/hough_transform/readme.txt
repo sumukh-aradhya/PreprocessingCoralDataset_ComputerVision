@@ -1,0 +1,2 @@
+-> gcc hough.c netpbm.c -o hough -lm
+-> ./hough inputs/1.pgm outputs/grayscale/1_op.pgm

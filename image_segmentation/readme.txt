@@ -1,0 +1,2 @@
+-> gcc texture_segment.c netpbm.c -o texture -lm
+-> ./texture inputs/1.pgm 4 outputs/grayscale/1_op.pgm
